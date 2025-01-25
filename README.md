@@ -1,4 +1,4 @@
-# Library Project in Django with Stripe
+# Library Project in Django with Stripe using monolithic
 
 ## Description
 This project is a Django-based web application that facilitates book transactions using the Stripe API. Users can register as writers to post books for sale or as regular users to browse and purchase books.
